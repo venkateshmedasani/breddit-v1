@@ -1,4 +1,4 @@
-# Reddit Marketing Intelligence Suite
+# breddit-v1
 
 Three Python tools for finding relevant subreddits, scraping posts, and generating AI-powered organic content.
 
