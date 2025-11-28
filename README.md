@@ -68,3 +68,10 @@ requirements.txt - Python dependencies
 - Python 3.8+
 - Reddit API account
 - Ollama (for content generation)
+
+## Upcoming changes
+- Work with different local models for content generation
+- Work with prompt engineering
+- Making this one contiguous workflow
+- Running the subreddit finder 2-3 times keeping any additional seperate entities
+    
